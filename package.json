@@ -185,7 +185,7 @@
     "tar": "6.0.5",
     "tcp-port-used": "1.0.2",
     "tempy": "1.0.0",
-    "terser": "5.5.1",
+    "terser": "5.14.2",
     "text-table": "0.2.0",
     "through2": "4.0.2",
     "traverse": "0.6.6",
