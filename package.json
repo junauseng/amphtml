@@ -155,7 +155,7 @@
     "list-imports-exports": "0.1.2",
     "lolex": "5.1.2",
     "markdown-link-check": "3.8.5",
-    "minimatch": "3.0.4",
+    "minimatch": "3.0.5",
     "minimist": "1.2.5",
     "mocha": "8.2.1",
     "mocha-silent-reporter": "1.0.0",
